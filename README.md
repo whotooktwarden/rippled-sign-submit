@@ -5,9 +5,13 @@ TLDR; A template ripple.yml file and a ruby script for signing and submitting Ri
   1.  Preamble
   
    This ruby script was authored by Taylor Warden to be released free of charge to the community Ripple developers
-   Many thanks to julianeon for providing a template Ruby script!!
-   Many thanks to JoelKatz for putting up with my stupid syntax/rippled questions!!
-   Many thanks to ninobrooks for assisting with unix permission issues!!
+
+
+   >Many thanks to julianeon for providing a template Ruby script!!
+   
+   >Many thanks to JoelKatz for putting up with my stupid syntax/rippled questions!!
+   
+   >Many thanks to ninobrooks for assisting with unix permission issues!!
 
 
    submit.rb and ripple.yml are provided AS-IS and WITHOUT WARRANTY
