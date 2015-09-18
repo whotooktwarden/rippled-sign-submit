@@ -17,7 +17,7 @@ TLDR; A template ripple.yml file and a ruby script for signing and submitting Ri
 
    submit.rb and ripple.yml are provided AS-IS and WITHOUT WARRANTY
 
-   This package is released under a GNU General Public License, please refer to the LICENSE file for more information.
+   This package is released under a Creative Commons Attribution 4.0 International License, please refer to the LICENSE file for more information.
 
         I, TAYLOR WARDEN, HEREBY CLAIM NO RESPONSIBILITY THEREIN FOR ANY INDIVIDUAL, 
         INDIVIDUALS, ENTITY, OR ENTITIES THAT MAY RECEIVE LEGAL ACTION, DIRECTLY OR INDIRECTLY,
