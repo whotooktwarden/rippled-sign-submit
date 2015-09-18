@@ -13,7 +13,7 @@ TLDR; A template ripple.yml file and a ruby script for signing and submitting Ri
    
    >Many thanks to ninobrooks for assisting with unix permission issues!!
 
-   >And finally thank you to Mr. Data from  [coinpayments.net](https://www.coinpayments.net/index.php?ref=ee25108a996abb3fdf7b07dfa429c2f9]coinpayments.net) for services, all of your support, and [for adding this resource to your site](https://www.coinpayments.net/merchant-tools-ipn)!!
+   >And finally thank you to Mr. Data from  [coinpayments.net](https://www.coinpayments.net/index.php?ref=ee25108a996abb3fdf7b07dfa429c2f9]coinpayments.net) for your services, all of your support, and [for adding this resource to your site](https://www.coinpayments.net/merchant-tools-ipn)!!
 
    submit.rb and ripple.yml are provided AS-IS and WITHOUT WARRANTY
 
