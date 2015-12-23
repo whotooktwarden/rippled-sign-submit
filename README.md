@@ -67,6 +67,8 @@ TLDR; A template ripple.yml file and a ruby script for signing and submitting Ri
       [Instant Payment Notifications (IPN) API](https://www.coinpayments.net/merchant-tools-ipn)
       
       [IPN Template in PHP](https://www.coinpayments.net/downloads/cpipn.phps)
+      
+      [The QuickGatewayKit: IPN Example Scripts](https://github.com/whotooktwarden/QuickGatewayKit)
 
       Related Threads:
       
