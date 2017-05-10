@@ -5,19 +5,14 @@ TLDR; A template ripple.yml file and a ruby script for signing and submitting Ri
   1.  Preamble
   
    This ruby script was authored by Taylor Warden to be released free of charge to the community Ripple developers
+   Many thanks to julianeon for providing a template Ruby script!!
+   Many thanks to JoelKatz for putting up with my stupid syntax/rippled questions!!
+   Many thanks to ninobrooks for assisting with unix permission issues!!
 
-
-   >Many thanks to julianeon for providing a template Ruby script!!
-   
-   >Many thanks to JoelKatz for putting up with my stupid syntax/rippled questions!!
-   
-   >Many thanks to ninobrooks for assisting with unix permission issues!!
-
-   >And finally thank you to Mr. Data from  [coinpayments.net](https://www.coinpayments.net/index.php?ref=ee25108a996abb3fdf7b07dfa429c2f9]coinpayments.net) for your services, all of your support, and [for adding this resource to your site](https://www.coinpayments.net/merchant-tools-ipn)!!
 
    submit.rb and ripple.yml are provided AS-IS and WITHOUT WARRANTY
 
-   This package is released under a Creative Commons Attribution 4.0 International License, please refer to the LICENSE file for more information.
+   This package is released under a GNU General Public License, please refer to the LICENSE file for more information.
 
         I, TAYLOR WARDEN, HEREBY CLAIM NO RESPONSIBILITY THEREIN FOR ANY INDIVIDUAL, 
         INDIVIDUALS, ENTITY, OR ENTITIES THAT MAY RECEIVE LEGAL ACTION, DIRECTLY OR INDIRECTLY,
